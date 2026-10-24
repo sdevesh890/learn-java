@@ -14,6 +14,7 @@ class Account{
        this.address = address;
    }
 }
+
 public class ObjectDemo {
     static void main(String[] args) {
         // Objects are used to access the properties of the class
